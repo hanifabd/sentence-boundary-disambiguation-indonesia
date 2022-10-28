@@ -1,4 +1,7 @@
-# **Referensi**
+# Sentence Boundary Disambiguation
+Read about this research in this [presentation](https://github.com/hanifabd/sentence-boundary-disambiguation-indonesia/blob/main/Presentation%20-%20Indonesian%20Sentence%20Boundary%20Disambiguation.pptx)
+
+# **Referrence**
 
 - Anon 2020. Part of Speech (PoS) Tagging - Tutorialspoint. [online] Available at: <https://www.tutorialspoint.com/natural_language_processing/natural_language_processing_part_of_speech_tagging.htm> [Accessed 29 Oct. 2020].
 
